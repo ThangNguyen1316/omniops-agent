@@ -1,0 +1,6 @@
+{
+  "name": "OmniOps Agent",
+  "description": "Autonomous DevSecOps & Incident Response AI System for server log analysis, root cause isolation, code diff hotfixes, and SRE incident mitigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
